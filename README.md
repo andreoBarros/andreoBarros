@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ândreo
 
-<!--
-**andreoBarros/andreoBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Backend Developer focused on building reliable APIs, integrations, and
+server-side applications.
 
-Here are some ideas to get you started:
+I mainly work with **Python/FastAPI** and **PHP/Laravel**, with experience
+developing REST and GraphQL APIs, payment integrations, asynchronous
+processing, databases, and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, PHP, SQL
+**Backend:** FastAPI, Laravel, Django, Django REST Framework
+**Databases:** PostgreSQL, MySQL, MariaDB, Redis
+**Messaging:** Amazon SQS, RQ, Celery
+**Cloud & Infrastructure:** AWS, Docker, Kubernetes, Rancher
+**Testing & CI/CD:** Pytest, GitHub Actions, CI/CD
+**APIs & Integrations:** REST, GraphQL, Webhooks, Payment APIs
+**Monitoring:** Sentry
